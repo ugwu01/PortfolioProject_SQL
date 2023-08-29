@@ -1,4 +1,4 @@
-11select *
+select *
 from PortfolioProject..CovidDeath$
 where continent is not Null 
 order by 3,4
