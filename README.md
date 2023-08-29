@@ -24,6 +24,4 @@ Database administrators use data control language (DCL) to manage or authorize d
 Transaction control language
 The relational engine uses transaction control language (TCL) to automatically make database changes. For example, the database uses the ROLLBACK command to undo an erroneous transaction. 
 
-This Project aims to showcase my ability to use the various structured query language (SQL) commands.
-
-This project is a capstone project to showcase my ability to 
+This Project capstone project that aims to showcase my ability to use the various structured query language (SQL) commands.
